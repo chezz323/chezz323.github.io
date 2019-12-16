@@ -1,2 +1,2 @@
-#Solve the Nonogram with CUDA C
-##0. Introduce
+# Solve the Nonogram with CUDA C
+## 0. Introduce
