@@ -11,12 +11,13 @@ url: "" # the base hostname & protocol for your site
 # User setting
 owner: Seungho Choe
 email: ellain@me.com
+email: choe-s@webmail.uwinnipeg.ca
 facebook_username:
 twitter_username:
 github_username: chezz323
 address:
-  - line:
-  - line:
+  #- line:
+  #- line:
   # Feel free to add more lines here 
 telephone: +82-1032155453
 copyright:
