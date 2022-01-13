@@ -22,6 +22,12 @@ body {
     vertical-align: middle;
 }
 
+.text-vertical-left {
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+}
+
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
